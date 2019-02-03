@@ -1,0 +1,25 @@
+plato_id,plato_nombre,plato_calorias,plato_cuchara
+1,lentejas,100,0
+2,"judias verdes",80,0
+3,"arroz blanco",50,0
+4,paella,80,0
+5,"sopa de pescado",50,1
+6,"caldo de carne",75,1
+7,cocido,150,0
+8,fabes,100,0
+9,"ternera en salsa",75,0
+10,"dorada a la sal",40,0
+11,salmon,50,0
+12,"lomo de cerdo",50,0
+13,entrecot,75,0
+14,lubina,60,0
+15,trucha,50,0
+16,"pulpo a feira",50,0
+17,mero,40,0
+18,"chuletas de cerdo",50,0
+19,"chuletas de cordero",50,0
+20,"huevos rotos",30,0
+21,"flan con nata",15,0
+22,yogurt,10,0
+23,"tarta de queso",25,0
+24,cafe,5,0
